@@ -2,9 +2,9 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" ctype="Workspace" />
   <MonoDevelop.Ide.Workbench ActiveDocument="gRezepte/MainWindow.cs" ctype="Workbench">
     <Files>
-      <File FileName="gRezepte/Main.cs" Line="13" Column="4" />
-      <File FileName="gRezepte/MainWindow.cs" Line="2" Column="2" />
-      <File FileName="gRezepte/Rezepteingabe.cs" Line="29" Column="19" />
+      <File FileName="gRezepte/Main.cs" Line="1" Column="12" />
+      <File FileName="gRezepte/MainWindow.cs" Line="53" Column="30" />
+      <File FileName="gRezepte/Rezepteingabe.cs" Line="66" Column="46" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
